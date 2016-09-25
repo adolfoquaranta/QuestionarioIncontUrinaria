@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Questionário de Incontinência Urinária</string>    
+    <string name="SIM">SIM</string>
+    <string name="NAO">NÃO</string>
+    <string name="quest1_tvInfoQualQuest">Questão 1 de 12:</string>
+    <string name="quest2_tvInfoQualQuest">Questão 2 de 12:</string>
+    <string name="quest3_tvInfoQualQuest">Questão 3 de 12:</string>
+    <string name="quest4_tvInfoQualQuest">Questão 4 de 12:</string>
+    <string name="quest5_tvInfoQualQuest">Questão 5 de 12:</string>
+    <string name="quest6_tvInfoQualQuest">Questão 6 de 12:</string>
+    <string name="quest7_tvInfoQualQuest">Questão 7 de 12:</string>
+    <string name="quest8_tvInfoQualQuest">Questão 8 de 12:</string>
+    <string name="quest9_tvInfoQualQuest">Questão 9 de 12:</string> 
+    <string name="quest10_tvInfoQualQuest">Questão 10 de 12:</string>
+    <string name="quest11_tvInfoQualQuest">Questão 11 de 12:</string>
+    <string name="quest12_tvInfoQualQuest">Questão 12 de 12:</string>   
+    <string name="quest1_tvQuest">Idade:</string>
+    <string name="quest2_tvQuest" >Você já passou pela menopausa?</string>  
+    <string name="quest3_tvQuest">Você já foi submetida a algum tipo de cirurgia do períneo?</string> 
+    <string name="quest4_tvQuest">Antes da cirurgia você perdia urina?</string> 
+    <string name="quest5_tvQuest">Atualmente você consegue segurar a urina quando está apertada para ir ao banheiro?</string>
+    <string name="quest6_tvQuest">Você sente quando está perdendo urina?</string>
+    <string name="quest7_tvQuest" >Se você sente quando está perdendo a urina, em quais situações isso acontece?</string> 
+    <string name="quest7_cbCorre">quando corre</string>
+    <string name="quest7_cbPeso">quando pega peso</string>
+    <string name="quest7_cbApertada">quando está muito apertada</string>
+    <string name="quest7_cbRisada">quando dá muita risada</string>
+    <string name="quest7_cbEsforco">quando faz um esforço muito grande</string>
+    <string name="quest7_cbCaminhada">quando faz caminhada</string>
+    <string name="quest7_cbEscada">quando sobe escada</string>
+    <string name="quest7_cbUsaAgua">quando mexe com água</string>
+    <string name="quest7_cbApertadaPortaBanheiro">quando está apertada e chega na porta do banheiro</string>    
+    <string name="quest8_tvQuest">Você já conversou com algum médico ou outro profissional de saúde sobre essas perdas de urina?</string> 
+    <string name="quest9_tvQuest">Você sabe que tem tratamento para perda de urina?</string> 
+    <string name="quest10_tvQuest">Você toma algum medicamento para perda de urina?</string>
+    <string name="quest11_tvQuest">Você toma algum outro tipo de medicamento?</string>
+    <string name="quest12_tvQuest" >Você gostaria de tratar a sua perda de urina?</string>
+    <string name="Quantos" >Se SIM, há quantos anos?</string>
+    <string name="Quais" >Se SIM, quais?</string>
+    <string name="Proximo">Próxima Questão</string>
+    <string name="Menu">Menu</string>
+    <string name="Finalizar">Finalizar</string>
+    <string name="menu_tvInstrucoes">Selecione a opção desejada:</string>
+    <string name="menu_btIniciar">Iniciar Questionário</string>
+    <string name="menu_btInstrucoesUso">Instruções de Uso</string>
+    <string name="menu_btSair">Sair</string>
+    <string name="intrucoes">Para avançar para um próxima pergunta deste questinário, responda a pergunta que aparece na tela no momento, caso isso não seja feito serão exibidas mensagens de erro.</string>
+    <string name="menu_btGerarCSV">Gerar CSV</string>
+    <string name="menu_tvWelcome">M E N U</string>  
+    <string name="Anterior">Questão Anterior</string>
+
+</resources>
